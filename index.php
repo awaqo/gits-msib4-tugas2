@@ -397,7 +397,7 @@ $simba = "https://www.figma.com/proto/Te4Y6UnnurDxrOg2w1sbg2/Desain-Aplikasi?pag
                             <a href="#explore" class="inline-block text-base mb-3 hover:text-primary">Eksplorasi</a>
                         </li>
                         <li>
-                            <a href="#kontak" class="inline-block text-base mb-3 hover:text-primary">Kontak</a>
+                            <a href="#contact" class="inline-block text-base mb-3 hover:text-primary">Kontak</a>
                         </li>
                     </ul>
                 </div>
